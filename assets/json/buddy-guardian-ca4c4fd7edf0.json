@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "buddy-guardian",
+  "private_key_id": "ca4c4fd7edf03406c1b0c5ce592bff04a7bee1e3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDCyiOk3zjPjw+b\nLYCFgPyaUbGi8MoaNn8TiYftIj+hNA7VFo36tPLui3vLKGKP2jbpGqvnVVFbO5jU\nHP6rJKHKH7LbpG4JtdXH0Jehed3Plawuj+geseECtl0bXzzF3HlBPBbMtZJVw0w3\nHTEahNQzt3Rl6hA8u1nc4/ZUIgdI/K151uwiTzAz0mL7jmw9qhT/eWmGu3MSdeQD\nRprnw5RBE50jpz7I2CQWGGLrXYoYkXfJsMmmyeUGd+KaqUKK3nGJlAGftBPr7j5a\nXMt6h/3afqQjCRkm2g6IYdzrug2DwYICGZLwibEV/ZbHXo4GNiJZXtiJWqPlaMYN\nRMTc9yeNAgMBAAECggEAV1IMhoV2zzz/rv3H5pE7K+bBbhzpTLTvZI+7umcnBRn0\nKDwzK5dga+Vlel5BSOF2yiqls0+A6BggW74fwBLs4FIzeNkOZxX3ntp4ju+1qrAa\n/siOMuxkxTWBKZsZAE3koYTRZ7Vhw0aIbRCOCahQBFsSN/mki8Uk9KvQqkiS4Xlz\nncCfCeb2RZs42PFURhK75lnPCDl2Gd9dsEImtnKTXie7hIECvkUnY1QbLlXlhdpm\nkja/xDqpc1u3AERYYVXa3OUaUpUz1aF0S9HqFc/GQLXF0R6mZGGL1UWNOCu/Z0dK\n3agRiNGgtJBDkMt9BPogFu8t5sIThL9iX0YVzRgHVQKBgQDuNLUa/wrmC6jOqUWR\neK0yTQv/pF4q6o8KrtoLqXokF/wvV3xdayahsto1QxU/Uis2/nWhuJMgN6PLzF82\nHYl7eRx/9RaErxfQT4VIjc+XlsBo7qXWLVuMQWZoZdFTu6KLj9hvzqAW/4KsSXZc\nfxFo0IDKRnU6qOcdKOEQlgrVPwKBgQDRVyra2Vbz8n2Ka9TmPe8cAZyEPi9khB1m\njCHW+mDhLfzdGHx7Z4pwpqyIc0jyZOBUFKZlT2BzAOMkq2NJWO5YyvU3nsBkrm1O\n7plQVdXBYS+9eboz2OoGhKDc+gl1Rjp2PfJWZ6fVwfLgX+w0EXjoRAbazrL00GV4\nSAbXcapUMwKBgQDZBeJe1zDZyJOivavpTpYVdwbQgbNdzFhIdmeoKl9ilQupIj7n\naeFHfwi5cAXiq/09XHZVwjEhMDAmVGwGhMCmYwBpQCWk+1Vp75lSMgmJZcqlj5A9\n4xM+ZLNluCYP8Kq2Fnct3oYSjfZC+6c/vHFjGlvMbocNy6bM9VqgXuM9xwKBgBif\nA+9ReKSgdJt/Kz8ZMbI9jkcPeUt9LmgNOz2pnRNe8UqfwqRQ/Ttanxg9VusLakb5\nVsi7mUBtbkm1zqulxgKzfDvadA5jZX/PGEEWl1lzMMY8NuY6MOwrVTAoSEx+wgl+\nJ6556od9lC9HmORW2b2XoqbBgNLCX+zRq9xTBhF5AoGBAM5+UnFM7NtnvnyiPXBt\nh1aZfxvlZwAqKWwz/IbOOZFBrdkE1glu0FHQClwQBap4k4lASLdAo6qAyqpfeZ+v\n1xYsxM/b8VfF1dDt85b0whGi5CvpUsUED/mbb0f0ZhhLfvn6G6jlcqna1Z6uq4N3\nNqRA0iWC4D2he8qx+n8x3Lk2\n-----END PRIVATE KEY-----\n",
+  "client_email": "buddy-guardian-wallet@buddy-guardian.iam.gserviceaccount.com",
+  "client_id": "115519830670778894079",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/buddy-guardian-wallet%40buddy-guardian.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+
