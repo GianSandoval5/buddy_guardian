@@ -62,7 +62,6 @@ flutter:
     - assets/fonts/
     - assets/icons/
     - assets/gif/
-    - assets/json/
     - packages/flutter_google_wallet/assets/svg/button/frFR_add_to_google_wallet_wallet-button.svg
     - packages/flutter_google_wallet/assets/svg/button/enUS_add_to_google_wallet_wallet-button.svg
   # example:
