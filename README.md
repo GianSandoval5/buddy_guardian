@@ -6,6 +6,9 @@ Hice todo para que quedará bien.
 
 pueden probar el apk aqui https://drive.google.com/file/d/1vs9UJdbYgsV9ppIY44WXvP9zzcEyuIsO/view?usp=drivesdk
 
+✅ Para agregar el proyecto a firebase agrege sus propias clavess usando FIREBASE CLI
+✅ Tambien implemente el functions, ya que por seguridad de firebase no permite compartir datos sensibles. 
+
 <p float="left">
     <img src="/assets/screen/s1.jpg" width="200" />
     <img src="/assets/screen/s2.jpg" width="200" /> 
